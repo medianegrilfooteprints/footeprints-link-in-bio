@@ -144,7 +144,7 @@ We're sorry: **pets are not allowed** at FootePrints.
 Topic: stay
 Words: checkin checkout check-in check-out times late deposit arrive arrival
 
-- **Check-in** from **3 PM**, **check-out** by **11 AM**.
+- **Check-in** from **3 PM**, **check-out** by **12 PM**.
 - **Late check-out** is **$65**, when the hotel isn't fully booked and your room isn't needed for arriving guests: just ask the front desk.
 - We're a **cashless property**: please bring a card. Hotel guests have a **$200 card pre-authorisation** at check-in.
 - Taxes: **10% government tax**, **15% service charge** and the **US$1 a night** Jamaica hospitality tax. All prices are in US dollars.
