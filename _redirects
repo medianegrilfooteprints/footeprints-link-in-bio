@@ -1,0 +1,45 @@
+# Old WordPress pages → new pages (301 = moved for good, keeps Google ranking)
+/hotel/ / 301
+/hotel / 301
+/suites/ /stay/ 301
+/suites /stay/ 301
+/accommodations/ /stay/ 301
+/accommodation/ /stay/ 301
+/accommodation/* /stay/ 301
+/oceanview-suite/ /stay/ 301
+/services/ /stay/ 301
+/services/* /stay/ 301
+/product/reservation/ /stay/ 301
+/skywalk/ /dining/ 301
+/skywalk /dining/ 301
+/area/ /#faq 301
+/area /#faq 301
+/contact-us/ /#contacts 301
+/contact-us /#contacts 301
+/celebration/ /celebrations/ 301
+/soundscape-old/ /soundscape/ 301
+/shop/ /soundscape/ 301
+/product/access-pass/ /soundscape/ 301
+/product/stay-access-package/ /soundscape/ 301
+/landing/ / 301
+/test/ / 301
+/hello-world/ / 301
+/my-account-old/ / 301
+# Same pages without the closing slash
+/stay /stay/ 301
+/day-pass /day-pass/ 301
+/dining /dining/ 301
+/spa /spa/ 301
+/soundscape /soundscape/ 301
+/celebrations /celebrations/ 301
+/retreats /retreats/ 301
+/work-with-us /work-with-us/ 301
+/privacy-policy /privacy-policy/ 301
+# Booking engine: switch these on once the old WordPress site lives at book.negrilfooteprints.com
+# /search-results/* https://book.negrilfooteprints.com/search-results/:splat 302
+# /search-availability/* https://book.negrilfooteprints.com/search-availability/:splat 302
+# /booking-confirmation/* https://book.negrilfooteprints.com/booking-confirmation/:splat 302
+# /booking-cancellation/* https://book.negrilfooteprints.com/booking-cancellation/:splat 302
+# /cart/ https://book.negrilfooteprints.com/cart/ 302
+# /checkout/* https://book.negrilfooteprints.com/checkout/:splat 302
+# /my-account/* https://book.negrilfooteprints.com/my-account/:splat 302
